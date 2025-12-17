@@ -33,7 +33,5 @@ The journey doesn’t stop here — this is just the beginning. Moving forward, 
 
 ### **_Deployment Results :-_** 
 
-<img width="650" height="780" src="https://github.com/user-attachments/assets/e99b99b9-ff92-41d2-83ea-c62b311d64ea" />
-
-<img width="650" height="780"  src="https://github.com/user-attachments/assets/b549046c-e9ac-47df-a203-5e5986ddeb15" />
+<img width="900" height="850" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/ac073fd7-7f75-4433-bd61-2f9f74ce456e" />
 
